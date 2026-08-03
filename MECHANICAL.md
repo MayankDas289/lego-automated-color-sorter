@@ -24,7 +24,7 @@ The assembly was upgraded with a heavy Technic support framework underneath to c
 
 | Early Base (Minimal Structure) | Iteration 2 (Angled Track Tilt) | Reinforced Technic Chassis |
 | :---: | :---: | :---: |
-| ![v1](media/flat-underside.jpeg) | ![v2 Angled Track](media/IMG_4543.jpeg) | ![v2 Frame Underside](media/structured-technic-underside-(1).jpeg) |
+| ![v1](media/flat-underside.jpeg) | ![v2 Angled Track](media/IMG_4543.jpeg) | ![v2 Frame Underside](media/structured-underside-(1).jpeg) |
 | *Flat, minimal structure used during early gravity flow testing.* | *Track geometry updated to tilt bricks toward the lower wall without blocking tall pieces.* | *Heavy Technic under-framing added to eliminate flex and support drive shafts.* |
 
 ---
