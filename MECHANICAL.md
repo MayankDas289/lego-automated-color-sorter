@@ -15,22 +15,22 @@
 ## Substructure Evolution & Stability (v2.0)
 
 ### Problem: Track Flex & Unstable Geometry
-In the initial prototype (v1.0), using a simple flat track without a rigid frame resulted in torsional flex across long spans. This instability made it difficult to maintain consistent alignment for the motor drive and sorting channel.
+In the initial prototype phase, a minimal flat ramp was used to test if bricks would slide under gravity alone. However, the lack of structural support allowed the track to flex, making it difficult to maintain consistent alignment for the motor drive.
 
 ---
 
-### Solution: Structural Under-Framing & Passive Tilting
-The assembly was upgraded with a heavy Technic support framework underneath to create a rigid chassis before mounting electronic sensors.
+### Solution: Reinforced Chassis & Gravity-Tilted Track
+The assembly was upgraded with a heavy Technic support framework underneath to create a rigid foundation before adding electronic sensors.
 
-| Early Prototype (v1.0 Flat Ramp) | Iteration 2 (v2.0 Reinforced Frame) |
-| :---: | :---: |
-| ![v1 Flat Ramp](media/IMG_4448.jpeg) | ![v2 Frame Overview](media/IMG_4543.jpeg) |
-| *Minimal flat track built to test basic gravity slide.* | *Added heavy Technic under-framing for chassis stability and rigidity.* |
+| Early Base (Minimal Structure) | Iteration 2 (Angled Track Tilt) | Reinforced Technic Chassis |
+| :---: | :---: | :---: |
+| ![v1 Minimal Base](media/IMG_4448.jpeg) | ![v2 Angled Track](media/IMG_4543.jpeg) | ![v2 Frame Underside](media/IMG_4537.jpeg) |
+| *Flat, minimal structure used during early gravity flow testing.* | *Track geometry updated to tilt bricks toward the lower wall without blocking tall pieces.* | *Heavy Technic under-framing added to eliminate flex and support drive shafts.* |
 
 ---
 
 ### Key Structural Improvements
 
-1. **Chassis Rigidity:** Multi-layer Technic support prevents the frame from twisting or sagging when the gate motor operates.
-2. **Passive Alignment:** Built-in track tilt uses gravity to guide bricks along the lower wall while keeping the top completely open for larger pieces.
+1. **Chassis Rigidity:** Multi-layer Technic support beams (`IMG_4537`, `IMG_4538`, `IMG_4541`) prevent the frame from twisting when the gate motor actuates.
+2. **Passive Alignment:** Built-in track tilt (`IMG_4543`) relies on gravity to keep bricks flush against the wall for reliable optical readings.
 3. **Modular Foundation:** Establishes a rigid base to support future sensor mounting and drive alignment.
