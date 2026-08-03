@@ -9,5 +9,5 @@
 ### 2. Deflector Gate Drivetrain
 | Top View (Motor Coupling) | Side View (90° Gear Train) |
 | :---: | :---: |
-| ![Drivetrain Top](media/IMG_4389 .jpeg) | ![Drivetrain Side](media/IMG_4390.jpeg) |
+| ![Drivetrain Top](media/IMG_4389.jpeg) | ![Drivetrain Side](media/IMG_4390.jpeg) |
 | *Direct motor-to-axle coupling feeding into a Technic support superstructure.* | *Profile view showing right-angle gear mesh for driving the sorting deflector gate.* |
