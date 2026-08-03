@@ -31,6 +31,6 @@ The assembly was upgraded with a heavy Technic support framework underneath to c
 
 ### Key Structural Improvements
 
-1. **Chassis Rigidity:** Multi-layer Technic support beams (`IMG_4537`, `IMG_4538`, `IMG_4541`) prevent the frame from twisting when the gate motor actuates.
+1. **Chassis Rigidity:** Multi-layer Technic support beams (`structured-underside(1),structured-underside(2),structured-underside(3)`) prevent the frame from twisting when the gate motor actuates.
 2. **Passive Alignment:** Built-in track tilt (`IMG_4543`) relies on gravity to keep bricks flush against the wall for reliable optical readings.
 3. **Modular Foundation:** Establishes a rigid base to support future sensor mounting and drive alignment.
